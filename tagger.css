@@ -1,0 +1,32 @@
+ /**
+ * Tagger Plugin for Wolf CMS <http://www.tbeckett.net/articles/plugins/tagger.xhtml>
+ * 
+ * [direct port of Frog Tagger for Wolf CMS <http://www.wolfcms.org/>]
+ *
+ * Copyright (C) 2008 - 2010 Andrew Smith <a.smith@silentworks.co.uk>
+ * Copyright (C) 2008 - 2011 Tyler Beckett <tyler@tbeckett.net>
+ * 
+ * Dual licensed under the MIT (mit-license.txt)
+ * and GPL (gpl-license.txt) licenses.
+ */
+
+ul.tagged 	{ font-size: 0.7em; text-indent: 40px; }
+ul.tagged li	{ display: inline; padding: 2px 1px; border: none; }
+#snippets .tagged a	{ top: 0; }
+h2.subtitle { font-size: 1.0em; background-color: #eee; padding: 5px 0; text-indent: 5px; }
+.code { background-color: #ffffcc; padding: 5px; }
+.bottom-5 { margin-bottom: 5px; }
+.bottom-10 { margin-bottom: 10px; }
+.bottom-15 { margin-bottom: 15px; }
+.bottom-20 { margin-bottom: 20px; }
+
+/*CSS Yahoo new version style pagination*/
+div.pagination { padding: 3px; margin: 3px; text-align:center; font-family: Tahoma,Helvetica,sans-serif; font-size: .85em; }
+div.pagination a { border: 1px solid #ccdbe4; margin-right: 3px; padding: 2px 8px; background-position: bottom; text-decoration: none;	color: #0061de; }
+div.pagination a:hover, div.pagination a:active { border: 1px solid #2b55af; background-image: none; background-color: #3666d4; color: #fff; }
+div.pagination span.current { margin-right: 3px; padding: 2px 6px; font-weight: bold; color: #000; }
+div.pagination span.disabled { display: none; }
+div.pagination a.next{ border: 2px solid #ccdbe4; margin: 0 0 0 10px; }
+div.pagination a.next:hover{ border: 2px solid #2b55af; }
+div.pagination a.prev{ border: 2px solid #ccdbe4; margin: 0 10px 0 0; }
+div.pagination a.prev:hover{ border: 2px solid #2b55af; }
