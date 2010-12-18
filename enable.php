@@ -4,7 +4,7 @@
  * 
  * [direct port of Frog Tagger for Wolf CMS <http://www.wolfcms.org/>]
  *
- * Copyright (C) 2008 - 2010 Andrew Smith <a.smith@silentworks.co.uk>
+ * Copyright (C) 2008 - 2011 Andrew Smith <a.smith@silentworks.co.uk>
  * Copyright (C) 2008 - 2011 Tyler Beckett <tyler@tbeckett.net>
  * 
  * Dual licensed under the MIT (/license/mit-license.txt)
